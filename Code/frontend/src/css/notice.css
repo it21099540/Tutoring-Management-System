@@ -1,0 +1,30 @@
+.card {
+	box-shadow: 0 5px 5px 0 black;
+	border-radius: 2%;
+	background-color:white;
+	margin-top:5%;
+	margin-left: 10%;
+    margin-right:10%;
+    margin-bottom: 10%;
+
+
+}
+.header1{
+    font-size:50px;
+    text-align: center;
+    font-family:cursive;
+    margin-top:5%;
+    
+}
+.container4{
+    margin-left:30%;
+    
+    margin-top: 8%;
+    
+   
+    
+
+
+}
+
+
